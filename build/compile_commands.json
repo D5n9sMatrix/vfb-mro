@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/denis/vfb-net.dk/vfb-mro/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/vfb-mro.dir/vfb-mro.cpp.o -c /home/denis/vfb-net.dk/vfb-mro/vfb-mro.cpp",
+  "file": "/home/denis/vfb-net.dk/vfb-mro/vfb-mro.cpp"
+}
+]
